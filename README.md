@@ -68,3 +68,78 @@ The content draws on the manifesto that everything should have a manifesto —
 
 * First revision
 * 2016-12-15
+
+
+## Concept
+
+### Issues / Problems
+
+
+_The general format is an adaptation of the ideas developed in Alexander's et al [A Pattern Language]( https://books.google.com/books?id=hwAHmktpk5IC&pg=PR10#v=onepage&q&f=false ) - as sammarized on page 10._
+
+_Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way_ twice.
+
+_patterns are descriptions of common problems and proposal for the solutions that can be used repeatedly every time the problem is encountered and producing an different outcome._
+
+There are many issues with death.
+The death may not happen at an opportune let a;ome convenient time.
+The death of one person may have untoward effects on nearby people.
+The death may impede the completion of unfinished business
+
+The solution is to disrupt the process of death so that it becomes timeless, meaningless and eventless
+
+
+### Mission
+_A statement of a rationale, applicable now as well as in the future_
+
+Death 2.0 is an ongoing thought experiment. Possibilities for future endeavors include:
+
+* Catalog the cool things about death
+* Examine the life long practice of dying small bits at a time. This might include sending your finger nail clippings to heaven
+* A detailed examination of Death 1.0 - including is it better to die before the program begins, during the program or just after
+
+
+### Vision
+_A descriptive picture of a desired future state_
+
+* Death is an interactive, collaborative and virtual experience
+* And there's an app for this
+
+
+## To Do / Goals / Up Next
+
+* Survive the next week
+
+
+## Issues / Bugs / Things that need Work
+
+* TBD
+
+
+## Features
+
+* TBD
+
+
+## Links of Interest
+
+* TBD
+
+
+## Change Log
+
+### 2017-01-11
+
+* update readme
+
+### 2017-01-07
+
+* First commit
+* Add Read Me
+
+
+***
+
+<center title='Death 1.0 is dead. Long live Death 2.0' >
+# <a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a>
+</center>
